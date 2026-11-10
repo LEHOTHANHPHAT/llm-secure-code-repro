@@ -1,0 +1,6 @@
+{
+  "dataset": "../data/seccodeplt_subset.jsonl",
+  "models": ["model-a-placeholder", "model-b-placeholder"],
+  "repeats": 1,
+  "expected_cwe_counts": {"CWE-22": 10, "CWE-78": 10, "CWE-94": 10, "CWE-502": 10}
+}

@@ -1,0 +1,6 @@
+{
+  "dataset": "../data/smoke.jsonl",
+  "models": ["model-a-placeholder", "model-b-placeholder"],
+  "repeats": 1,
+  "expected_cwe_counts": {"CWE-22": 1, "CWE-78": 1}
+}
